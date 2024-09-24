@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DevPartner
 - 👀 I’m interested in Sitecore/Umbraco, nopCommerce, ASP.NET, MS SQL Server, Azure and Solr Search engine and etc; 
 - 🌱 I'm currently learning F# and update my knowledge in patterns
-- 💞️ I’m looking to collaborate on Cloud, Sync, Search, and CMS solutions https://www.dev-partner.biz/
 
 
 <!---
